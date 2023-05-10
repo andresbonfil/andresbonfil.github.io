@@ -99,3 +99,29 @@ aside h4{
 footer{
     text-align: center;
 }
+
+/* LOS MEDIA QUERYS */
+@media screen and (max-width:800px) {
+    body{
+        background-color: lightblue;
+    }
+    main{
+        margin: 0;
+        flex-direction: column;
+        width: 100%;
+    }
+    section{
+        width: 100%;
+    }
+    aside{
+        width: 100%;
+    }
+    aside h2{
+        display: none;
+    }
+}
+@media screen and (max-width:385px) {
+    body{
+        background-color: PINK;
+    }
+}
