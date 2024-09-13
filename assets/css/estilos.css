@@ -462,6 +462,10 @@ body{
   .sociales__title{
     margin: 0 auto;
   }
+
+  .contacto__form {
+    margin: 0 auto;
+  }
 }
    /* header ul li{display: block; padding: 10px;}*/
 /*    header ul li{list-style: none; display: inline; margin-left: 10px; }
